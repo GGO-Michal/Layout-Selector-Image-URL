@@ -1,0 +1,11 @@
+<svg width="450" height="450" viewBox="0 0 450 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="-1.5" y="1.5" width="447" height="447" rx="25.5" transform="matrix(-1 0 0 1 447 0)" stroke="#616C79" stroke-width="3"/>
+<mask id="path-2-inside-1_2_10" fill="white">
+<path d="M371 0H273V450H371V0Z"/>
+</mask>
+<path d="M273 0H276V450H273H270V0H273Z" fill="#616C79" mask="url(#path-2-inside-1_2_10)"/>
+<rect x="-1.5" y="1.5" width="239" height="95" rx="18.5" transform="matrix(-1 0 0 1 254 337)" stroke="#616C79" stroke-width="3"/>
+<rect x="-1.5" y="1.5" width="239" height="45" transform="matrix(-1 0 0 1 254 21)" stroke="#616C79" stroke-width="3"/>
+<rect x="-1.5" y="1.5" width="239" height="15" transform="matrix(-1 0 0 1 254 85)" stroke="#616C79" stroke-width="3"/>
+<rect x="-1.5" y="1.5" width="239" height="178" transform="matrix(-1 0 0 1 254 118)" stroke="#616C79" stroke-width="3"/>
+</svg>
